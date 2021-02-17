@@ -15,6 +15,7 @@
 
   }
 
+  console.log(isPalindrome('taco cat'))
   console.log(isPalindrome('kayak'))
   console.log(isPalindrome('hello'))
   console.log(isPalindrome('aibohphobia'))
